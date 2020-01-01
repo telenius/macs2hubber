@@ -1,5 +1,24 @@
 #!/bin/bash
 
+##########################################################################
+# Copyright 2017, Jelena Telenius (jelena.telenius@imm.ox.ac.uk)         #
+#                                                                        #
+# This file is part of macs2hubber .                                      #
+#                                                                        #
+# macs2hubber is free software: you can redistribute it and/or modify     #
+# it under the terms of the MIT license.
+#
+#
+#                                                                        #
+# macs2hubber is distributed in the hope that it will be useful,          #
+# but WITHOUT ANY WARRANTY; without even the implied warranty of         #
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the          #
+# MIT license for more details.
+#                                                                        #
+# You should have received a copy of the MIT license
+# along with macs2hubber.  
+##########################################################################
+
 testSampleNameCharacters(){
     
     # PIPE_sampleBamPaths.txt
